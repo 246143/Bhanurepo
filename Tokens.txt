@@ -1,4 +1,5 @@
-go to settings and open developer settings and generate token.
-ghp_8B3xKaw2aeq8RpiB8gEm1rYdBOcKv1MiNmA
-use the git command to pull the changes remote repo.
+1.go to settings and open developer settings and generate token.
 
+2.ghp_8B3xKaw2aeq8RpiB8gEm1rYdBOcKv1MiNmA
+
+3.Create your branch and make changes.
